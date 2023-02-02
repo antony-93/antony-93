@@ -36,7 +36,6 @@ Sou Desenvolvedor Back-End cursando Técnico em Desenvolvimento de Sistemas e es
 </p>
 
 ![Texugo GitHub stats](https://github-readme-stats.vercel.app/api?username=antony-93&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antony-93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre mim
 * Sou um estudante em evolução fortemente focado no desenvolvimento web e games como Back-End.
