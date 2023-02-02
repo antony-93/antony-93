@@ -35,9 +35,6 @@ Sou Desenvolvedor Back-End cursando Técnico em Desenvolvimento de Sistemas e es
 
 </p>
 
-[Unicorn'sGitHubStats(https://githubreadmestats.vercel.app/apiusername=unicorntalent&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn-talent&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
-
 ## Sobre mim
 * Sou um estudante em evolução fortemente focado no desenvolvimento web e games como Back-End.
 
