@@ -4,7 +4,7 @@ Sou Desenvolvedor Back-End cursando Técnico em Desenvolvimento de Sistemas e es
 # Obrigado por visitar meu Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/antony-93/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br> <img src="https://profile-counter.glitch.me/antony-93/count.svg" /></a>
 
-<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834" width="500"/>
+<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
 ## ⚡️ Alguns fatos rápidos
 
