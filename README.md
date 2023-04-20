@@ -1,5 +1,5 @@
 ### Olá, Antony aqui👋
-Sou Desenvolvedor Back-End cursando Técnico em Desenvolvimento de Sistemas e estou trabalhando em alguns projetos paralelos, aprendendo algumas novas habilidades e humilhando pessoal no Mortal Kombat 11 😝.
+Sou Desenvolvedor Full-Stack cursando Técnico em Desenvolvimento de Sistemas e estou trabalhando em alguns projetos paralelos, aprendendo algumas novas habilidades e humilhando pessoal no Mortal Kombat 11 😝.
 
 # Obrigado por visitar meu Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/antony-93/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br> <img src="https://profile-counter.glitch.me/antony-93/count.svg" /></a>
